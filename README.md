@@ -83,10 +83,6 @@ Este projeto foi desenvolvido para:
 
 Desenvolvedor Fullstack  
 Pós-graduado em Desenvolvimento Fullstack  
-
-🔗 Conecte-se comigo no LinkedIn  
-🔗 Veja outros projetos no GitHub  
-
 ---
 
 ⭐ Se gostou do projeto, deixe uma estrela!
